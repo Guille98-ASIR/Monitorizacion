@@ -19,3 +19,7 @@ Información de los procesos lanzados de un usuario
 ![psu](/ud1/img/ps3.png)
 
 ## TOP
+
+Procesos de forma visual. Tiene varias formas de ordenar la información que se nos muestra(ej: M por memoria de mayor a menor, P por uso de CPU y T por tiempo)
+
+![top1](/ud1/img/top1.png)
