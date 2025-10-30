@@ -7,7 +7,10 @@
 
 # Monitorizacion
 
-<img src="/ud1/img/tux.gif" alt="tux" align="center" />
+<div align="center">
+  <img src="/ud1/img/tux.gif" alt="si" />
+</div>
+
 
 [UD1](/ud1/ud1.md)
 
