@@ -23,3 +23,12 @@ Información de los procesos lanzados de un usuario
 Procesos de forma visual. Tiene varias formas de ordenar la información que se nos muestra(ej: M por memoria de mayor a menor, P por uso de CPU y T por tiempo)
 
 ![top1](/ud1/img/top1.png)
+
+Con este comando, podemos mandar la información de top a un archivo y así podríamos pasarselo a otro administrador por si hiciera falta ayuda.
+
+![top2](/ud1/img/top2.png)
+
+Esto es un cat de dicho archivo
+
+![top3](/ud1/img/top3.png)
+
