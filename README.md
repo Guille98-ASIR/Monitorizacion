@@ -7,6 +7,8 @@
 
 # Monitorizacion
 
+![tux](/ud1/img/tux.gif)
+
 [UD1](/ud1/ud1.md)
 
 
