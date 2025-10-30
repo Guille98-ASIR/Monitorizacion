@@ -7,3 +7,12 @@ La *monitorización de servidores* es el proceso de supervisar y recopilar datos
 Información abundante de todos los procesos
 
 ![psau](/ud1/img/ps1.png)
+
+Información de todos los procesos del sistema
+
+![psaux](/ud1/img/ps2.png)
+
+Información de los procesos lanzados de un usuario
+
+![psu](/ud1/img/ps3.ong)
+
