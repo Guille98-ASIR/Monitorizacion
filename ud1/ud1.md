@@ -43,3 +43,9 @@ Un eterno gráfico interactivo con menús de ayuda
 Esto es un ejercicio para mostrar los procesos que mas CPU consuman, solo muestra las columnas user,comm,pid,%cpu
 
 ![ejercicio](/ud1/img/ejercicioprocesos.png)
+
+[Documentos](/ud1/documentos)
+
+[Img](/ud1/img)
+
+[Volver al READMe](/README.md)
