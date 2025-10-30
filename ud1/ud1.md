@@ -1,6 +1,6 @@
 # ¿Qué es monitorizar?
 
-La *monitorización de servidores* es el proceso de supervisar y recopilar datos sobre el funcionamiento de los sistemas, tanto a nivel de *hardware* como de software.
+La *monitorización de servidores* es el proceso de supervisar y recopilar datos sobre el funcionamiento de los sistemas, tanto a nivel de *hardware* como de *software*.
 
 # Procesos
 
@@ -32,3 +32,12 @@ Esto es un cat de dicho archivo
 
 ![top3](/ud1/img/top3.png)
 
+## HTOP
+
+Un eterno gráfico interactivo con menús de ayuda
+
+![htop](/ud1/img/htop.png)
+
+Esto es un ejercicio para mostrar los procesos que mas CPU consuman, solo muestra las columnas user,comm,pid,%cpu
+
+![ejercicio](/ud1/img/ejercicioprocesos.png)
