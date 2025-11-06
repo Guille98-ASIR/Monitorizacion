@@ -12,43 +12,8 @@ La monitorización de **memoria**, **espacio en disco** y **rendimiento de E/S**
 
 ## 🛠️ Herramientas de Monitorización
 
-### 1️⃣ Comando `atop`
 
-![Advanced](https://img.shields.io/badge/Nivel-Avanzado-red?style=flat&logo=linux)
-![Real-Time](https://img.shields.io/badge/Monitorización-Tiempo_Real-green?style=flat)
 
-`atop` es una herramienta avanzada de monitorización que muestra información detallada sobre el uso de recursos del sistema (CPU, memoria, disco, red) de forma integrada.
-
-#### 🧪 Generación de carga para pruebas
-
-Para simular carga en el sistema y observar el comportamiento de `atop`:
-
-```bash
-for i in {1..2}; do yes >/dev/null & done
-```
-
-**📝 Explicación:**
-- Este comando genera **2 procesos** que consumen CPU al máximo
-- `yes` produce una salida continua infinita
-- `>/dev/null` redirige la salida al dispositivo nulo (descarta la salida)
-- El `&` ejecuta cada proceso en segundo plano
-- Útil para probar herramientas de monitorización bajo carga
-
-#### 💡 Uso de atop
-
-```bash
-atop
-```
-
-**Características principales:**
-- 📈 Vista integral de CPU, memoria, disco y red
-- 🕐 Registro histórico de actividad del sistema
-- 🔍 Detección de procesos que causan cuellos de botella
-- ⚠️ Alertas cuando recursos alcanzan umbrales críticos
-
-> **⚠️ Nota**: Para detener los procesos de prueba, usa `killall yes`
-
----
 
 ### 2️⃣ Comando `free`
 
