@@ -1,6 +1,8 @@
 # Memoria, espacio y rendimiento del disco
 
-[UD1](/ud1/ud1.md)
+[Tema anterior](/ud1/ud1.md)
+
+[Siguiente tema](/ud3/ud3.md)
 
 [Documentos](/ud2/documentos)
 
