@@ -262,8 +262,11 @@ Este comando muestra estadísticas extendidas en formato legible, actualizadas c
 ## 🧭 Navegación
 
 [![Anterior](https://img.shields.io/badge/←_Tema_Anterior-Unidad_1-blue?style=for-the-badge)](/ud1/ud1.md)
+
 [![Siguiente](https://img.shields.io/badge/→_Siguiente_Tema-Unidad_3-blue?style=for-the-badge)](/ud3/ud3.md)
 
 [![Documentos](https://img.shields.io/badge/📄_Documentos-Referencia-green?style=for-the-badge)](/ud2/documentos)
+
 [![Imágenes](https://img.shields.io/badge/🖼️_Imágenes-Recursos-orange?style=for-the-badge)](/ud2/img)
+
 [![Inicio](https://img.shields.io/badge/🏠_Volver-README-purple?style=for-the-badge)](/README.md)
