@@ -112,5 +112,7 @@ ps aux --sort=-%cpu | awk '{print $1, $11, $2, $3}' | head -n 11
 [![Siguiente](https://img.shields.io/badge/→_Siguiente_Tema-Unidad_2-blue?style=for-the-badge)](/ud2/ud2.md)
 
 [![Documentos](https://img.shields.io/badge/📄_Documentos-Referencia-green?style=for-the-badge)](/ud1/documentos)
+
 [![Imágenes](https://img.shields.io/badge/🖼️_Imágenes-Recursos-orange?style=for-the-badge)](/ud1/img)
+
 [![Inicio](https://img.shields.io/badge/🏠_Volver-README-purple?style=for-the-badge)](/README.md)
