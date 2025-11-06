@@ -96,6 +96,8 @@ El contenido del archivo puede visualizarse con cualquier editor o con el comand
 
 `atop` es una herramienta avanzada de monitorización que muestra información detallada sobre el uso de recursos del sistema (CPU, memoria, disco, red) de forma integrada.
 
+![Comando atop](/ud1/img/atop.png)
+
 --- 
 
 ## 📝 Ejercicio Práctico
