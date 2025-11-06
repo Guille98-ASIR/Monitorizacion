@@ -44,7 +44,7 @@ Esto es un ejercicio para mostrar los procesos que mas CPU consuman, solo muestr
 
 ![ejercicio](/ud1/img/ejercicioprocesos.png)
 
-[UD2](/ud2/ud2.md)
+[Siguiente tema](/ud2/ud2.md)
 
 [Documentos](/ud1/documentos)
 
