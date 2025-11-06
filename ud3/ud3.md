@@ -7,6 +7,6 @@
 
 [Documentos](/ud2/documentos)
 
-[Img](/ud2/img)
+[Img](/ud3/img)
 
 [Volver al READMe](/README.md)
