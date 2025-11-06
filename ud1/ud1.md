@@ -89,6 +89,15 @@ El contenido del archivo puede visualizarse con cualquier editor o con el comand
 
 ---
 
+### 1️⃣ Comando `atop`
+
+![Advanced](https://img.shields.io/badge/Nivel-Avanzado-red?style=flat&logo=linux)
+![Real-Time](https://img.shields.io/badge/Monitorización-Tiempo_Real-green?style=flat)
+
+`atop` es una herramienta avanzada de monitorización que muestra información detallada sobre el uso de recursos del sistema (CPU, memoria, disco, red) de forma integrada.
+
+--- 
+
 ## 📝 Ejercicio Práctico
 
 ![Exercise](https://img.shields.io/badge/Tipo-Ejercicio-red?style=flat&logo=ansible)
