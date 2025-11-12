@@ -58,9 +58,7 @@ Muestra el **espacio disponible y utilizado** en los sistemas de archivos montad
 
 #### 💾 Uso básico
 
-```bash
-df -h
-```
+![df](/ud2/img/df.png)
 
 **Parámetros útiles:**
 - `-h`: Formato **legible** para humanos (KB, MB, GB)
@@ -93,9 +91,7 @@ Analiza el **uso de espacio en disco** por directorios y archivos.
 
 #### 📁 Uso básico
 
-```bash
-du -sh /ruta/directorio
-```
+![dh](/ud2/img/du.png)
 
 **Parámetros útiles:**
 - `-h`: Formato **legible** (KB, MB, GB)
@@ -132,9 +128,7 @@ Muestra estadísticas de **entrada/salida (I/O)** de los dispositivos de almacen
 
 #### 📈 Uso básico
 
-```bash
-iostat -x 2
-```
+![iostat](/ud2/img/iostat.png)
 
 **Parámetros útiles:**
 - `-x`: Muestra estadísticas **extendidas** (más detalladas)
