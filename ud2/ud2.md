@@ -23,9 +23,8 @@ Muestra información sobre el uso de **memoria RAM** y **swap** del sistema.
 
 #### 📊 Uso básico
 
-```bash
-free -h
-```
+![free](/ud2/img/free.png)
+
 
 **Parámetros útiles:**
 - `-h`: Muestra los valores en formato **humano** (MB, GB)
